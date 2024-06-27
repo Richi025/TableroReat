@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+#container {
+  width: 100%;
+  height: 20vh; /* Ajusta esta altura según sea necesario */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid #cccccc; /* Solo para ver los límites del contenedor */
+}
+
+hr {
+  margin: 20px 0; /* Añade un poco de margen para separar las líneas del contenedor */
+}
